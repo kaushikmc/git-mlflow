@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/582342460452263891/7be7a599df51485b94f30d65714fbbe0/artifacts
+end_time: 1757016048629
+entry_point_name: ''
+experiment_id: '582342460452263891'
+lifecycle_stage: active
+run_id: 7be7a599df51485b94f30d65714fbbe0
+run_name: handsome-dove-248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757016043630
+status: 3
+tags: []
+user_id: KAUSHIK MC

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/582342460452263891/dc08ba49a7a14887b9830e02fa51fc63/artifacts
+end_time: 1757082873357
+entry_point_name: ''
+experiment_id: '582342460452263891'
+lifecycle_stage: active
+run_id: dc08ba49a7a14887b9830e02fa51fc63
+run_name: upset-wolf-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757082862725
+status: 3
+tags: []
+user_id: KAUSHIK MC

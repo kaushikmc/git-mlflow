@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/582342460452263891/57aafb57597641eb9f2d77b0394c2597/artifacts
+end_time: 1757082838536
+entry_point_name: ''
+experiment_id: '582342460452263891'
+lifecycle_stage: active
+run_id: 57aafb57597641eb9f2d77b0394c2597
+run_name: aged-shrike-699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757082821379
+status: 4
+tags: []
+user_id: KAUSHIK MC

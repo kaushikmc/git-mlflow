@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/582342460452263891/208a8234ff96405ea2e8cf5fb72304aa/artifacts
+end_time: 1757051111632
+entry_point_name: ''
+experiment_id: '582342460452263891'
+lifecycle_stage: active
+run_id: 208a8234ff96405ea2e8cf5fb72304aa
+run_name: luminous-wasp-868
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757051053715
+status: 3
+tags: []
+user_id: KAUSHIK MC
